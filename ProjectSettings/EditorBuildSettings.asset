@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Quarto/Quartinho.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/inicio/Inicio.unity
+    guid: 5473af6da6391d641a2b2d217ba5bef4
+  - enabled: 0
+    path: Assets/cenas/roleta.unity
+    guid: fc25b37f4febd2744b65b6241987f01b
+  - enabled: 1
+    path: Assets/Quarto/bolinhas.unity
+    guid: 5d698137e0bc5c442b513acb7b66e232
+  - enabled: 1
+    path: Assets/Quarto/Alfabeto.unity
+    guid: 73d40318159599540a3052600afdf2dc
+  - enabled: 1
+    path: Assets/Quarto/Roleta.unity
+    guid: 69fd85c4eb382e143970cf414c6b3a0a
+  - enabled: 1
+    path: Assets/Sala/JogoMemoria.unity
+    guid: 2c9f538c883f77042867fdaa1b900f68
+  - enabled: 1
+    path: Assets/Sala/Sala.unity
+    guid: fda36bc74e5ebff40a64f5f618695adb
+  m_configObjects: {}

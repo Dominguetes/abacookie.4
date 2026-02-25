@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4245054912769275625
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 976396988298829938}
+  - component: {fileID: 5656406258729186397}
+  m_Layer: 0
+  m_Name: Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &976396988298829938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4245054912769275625}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.8339402, y: -0.19197814, z: -0.017635407}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5656406258729186397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4245054912769275625}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c831608825e09b14c99b6d314697164c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wheelTransform: {fileID: 0}
+  spinButton: {fileID: 0}
+  questionPanel: {fileID: 0}
+  questionText: {fileID: 0}
+  optionButtons: []
+  optionTexts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  backToWheelButton: {fileID: 0}
+  wheelStatusText: {fileID: 0}
+  spinDuration: 3
+  questions:
+  - question: 2 + 3?
+    options:
+    - 5
+    - 8
+    - 6
+    correctAnswer: 5
+  - question: "9 \u2013 2 = ?"
+    options:
+    - 8
+    - 9
+    - 7
+    correctAnswer: 7
+  - question: 
+    options: []
+    correctAnswer: 0
+  - question: 
+    options: []
+    correctAnswer: 0
+  - question: 
+    options: []
+    correctAnswer: 0
+  - question: 
+    options: []
+    correctAnswer: 0
+  - question: 
+    options: []
+    correctAnswer: 0
+  - question: 
+    options: []
+    correctAnswer: 0
+  - question: 
+    options: []
+    correctAnswer: 0
+  - question: 
+    options: []
+    correctAnswer: 0
