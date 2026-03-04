@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/inicio/Inicio.unity
     guid: 5473af6da6391d641a2b2d217ba5bef4
+  - enabled: 1
+    path: Assets/inicio/Casa1.unity
+    guid: f2160e105238ef343bb59fc448c33cf6
   - enabled: 0
     path: Assets/cenas/roleta.unity
     guid: fc25b37f4febd2744b65b6241987f01b

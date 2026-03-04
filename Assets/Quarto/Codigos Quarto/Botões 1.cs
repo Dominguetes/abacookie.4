@@ -26,5 +26,9 @@ public class Botões : MonoBehaviour
     {
         SceneManager.LoadScene("Inicio");
     }
+    public void Apertoucasa1()
+    {
+        SceneManager.LoadScene("Casa1");
+    }
 
 }
