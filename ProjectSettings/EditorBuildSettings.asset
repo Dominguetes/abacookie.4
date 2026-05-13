@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sala/Sala.unity
     guid: fda36bc74e5ebff40a64f5f618695adb
+  - enabled: 1
+    path: Assets/cozinha/cozinha.unity
+    guid: 279ddc0880f49df469aa5832ea5ae4bb
+  - enabled: 1
+    path: Assets/cozinha/Cardapio.unity
+    guid: 2f8397aebabc8d349906b70d9a5775ac
   m_configObjects: {}
